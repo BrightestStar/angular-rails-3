@@ -28,7 +28,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'angular-rails-templates'
 gem 'responders'
-gem 'angular_rails_csrf'
+# gem 'angular_rails_csrf'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
